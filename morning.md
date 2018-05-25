@@ -18,7 +18,7 @@ Hyper-customized products and services — designed so that each user receives a
 
 - 10:15	: [Group Exercise: Improving Fitness](morning-exercise.md)
 
-- 10:00	: [Solo Exercise: Exploring and Visualizing Data](morning-visualization)
+- 10:00	: [Solo Exercise: Exploring and Visualizing Data](morning-visualization.md)
 
 -----
 
