@@ -24,4 +24,4 @@ The collected data from the morning will become the raw material for contemporar
 
 ##### Necessary Software
 
-Please download and install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) for interacting with digital and analog sensors, and [Rhino 3D 5](https://www.rhino3d.com/download/rhino-for-mac/5/evaluation) Evaluation for visualizing data.
+Please download and install [Rhino 3D 5](https://www.rhino3d.com/download/rhino-for-mac/5/evaluation) Evaluation for visualizing data.
