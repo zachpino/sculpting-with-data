@@ -4,6 +4,8 @@
 
 Digital and analog sensors are affordable, accessible, and reliable tools for creating an embedded, computational awareness of the world. A huge variety of sensors exists for capturing all sorts of environmental, physical, and human phenomena. Sensors can be readily combined with one another to generate richer data.
 
+While playing with sensors, take note of their natural limitations, fragility, reported data range, and idiosyncracies.
+
 -----
 
 ##### Recommended Base Kit
