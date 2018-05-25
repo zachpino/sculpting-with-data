@@ -12,13 +12,13 @@ The collected data from the morning will become the raw material for contemporar
 
 - 12:45	: Data-Driven Form ([download slides](afternoon.pdf))
 			
-- 13:15	: [Dataset Creation](afternoon-dataset.md)
+- 13:15	: Dataset Creation
 
 - 13:45	: Exploration: 2D Data Visualization
 
 - 14:15	: Exploration: Wearable 3D Data Visualization
 
-- 14:45	: Exercise: Exploring and Visualizing Data
+- 14:45	: Exercise: Exploring and Visualizing Data in Grasshopper
 
 -----
 
