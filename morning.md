@@ -8,9 +8,9 @@ Hyper-customized products and services — designed so that each user receives a
 
 ##### Agenda
 
-- 08:30 : Introductions
+- 08:30 : Introductions and Software Download (see below)
 
-- 08:45	: Sensor-Enabled Intelligence in Design (download [slides](morning.pdf))
+- 08:45	: Sensor-Enabled Intelligence in Design ([download slides](morning.pdf))
 			
 - 09:15	: Sensor Variety and Micro-controller Introduction
 
